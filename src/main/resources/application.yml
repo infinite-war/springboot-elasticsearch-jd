@@ -1,0 +1,8 @@
+spring:
+  elasticsearch:
+    uris: 127.0.0.1:9200
+  thymeleaf:
+    cache: false    # ??thymeleaf??
+server:
+  port: 8080
+
